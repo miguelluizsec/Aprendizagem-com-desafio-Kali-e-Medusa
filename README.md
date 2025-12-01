@@ -31,6 +31,7 @@ Formulário Web (DVWA) com automação de tentativas
 
 Password Spraying em SMB com enumeração de usuários
 
+---
 
 - Outras habilidades desenvolvidas
 
@@ -42,6 +43,7 @@ Validação de acessos obtidos
 
 Boas práticas de mitigação e prevenção contra ataques de força bruta
 
+---
 
 - Exemplos de Wordlists Criadas
 
