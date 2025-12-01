@@ -51,6 +51,7 @@ Senhas_spray.txt
 pass.txt
 users.txt
 
+
 - Exemplos de comandos utilizados no Kali Linux
 
 ping -c 3 <IP-Alvo>
