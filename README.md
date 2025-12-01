@@ -48,7 +48,9 @@ Boas práticas de mitigação e prevenção contra ataques de força bruta
 - Exemplos de Wordlists Criadas
 
 Senhas_spray.txt
+
 pass.txt
+
 users.txt
 
 
