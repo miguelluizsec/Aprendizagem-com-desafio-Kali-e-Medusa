@@ -3,9 +3,7 @@ Projeto Prático: Ataques de Força Bruta com Kali Linux, Medusa e Ambientes Vul
 Este projeto teve como objetivo praticar técnicas de força bruta e entender o funcionamento de ataques básicos contra serviços vulneráveis, utilizando Kali Linux, Medusa, Metasploitable 2 e DVWA, sempre em um ambiente controlado e isolado, exclusivamente para fins educacionais.
 
 
----
-
-🖥️ Configuração do Ambiente
+- Configuração do Ambiente
 
 O ambiente foi montado utilizando duas máquinas virtuais no VirtualBox:
 
@@ -19,13 +17,12 @@ A rede foi configurada no modo Host-Only, garantindo isolamento total do ambient
 Também foi utilizado o DVWA (Damn Vulnerable Web Application) para simulação de ataques web.
 
 
----
 
-🧪 Atividades Realizadas
+- Atividades Realizadas
 
 Durante o desafio, foram praticadas as seguintes técnicas:
 
-✔️ Ataques de Força Bruta
+Ataques de Força Bruta
 
 FTP utilizando Medusa
 
@@ -34,7 +31,7 @@ Formulário Web (DVWA) com automação de tentativas
 Password Spraying em SMB com enumeração de usuários
 
 
-✔️ Outras habilidades desenvolvidas
+- Outras habilidades desenvolvidas
 
 Criação de wordlists simples
 
